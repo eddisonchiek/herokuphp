@@ -9,6 +9,6 @@
         "email": "21034014@myrp.edu.sg"
       }
     ],
-    "require": {
+    "require('vendor/test.php');": {
     }
   }
